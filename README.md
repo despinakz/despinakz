@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @despinakz
-- Copmuter Science Undegraduate Student, Athens GR
+- Computer Science Undegraduate Student, Athens GR
 - 👀 I’m interested in Software Engineer 
 - 📫 despinakoz@gmail.com
 
