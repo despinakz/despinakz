@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @despinakz
 - Computer Science Undegraduate Student, Athens GR 🇬🇷
-- 👀 I’m interested in Software Engineering 
+- 👀 I’m interested in Web Development and Software Engineering
 <!-- - 📫 despinakoz@gmail.com-->
 
 <!---
