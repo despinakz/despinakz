@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @despinakz
-- Computer Science Undegraduate Student, Athens GR 🇬🇷
+- Computer Science Graduate Student, Athens GR 🇬🇷
 - 👀 I’m interested in Web Development and Software Engineering
 <!-- - 📫 despinakoz@gmail.com-->
 
